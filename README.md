@@ -233,3 +233,5 @@ cargo run
 ```
 
 Aparecerá una ventana interactiva donde poder probar escanear de puertos con un **front-end** simple pero efectivo.
+
+![portscanner](imgs/front-end.png)
