@@ -38,7 +38,7 @@ fn main() -> eframe::Result<()> {
 ```
 
 - **`eframe::run_native`**: Llama a la función principal de `eframe` para iniciar la interfaz gráfica.
-- **"Escáner de Puertos - Rust"**: Es el título de la ventana de la aplicación.
+- **`"Escáner de Puertos - Rust"`**: Es el título de la ventana de la aplicación.
 - **`PortScannerApp::default()`**: Crea una instancia de nuestra estructura `PortScannerApp` que maneja el estado y la lógica de la GUI.
 
 ---
@@ -56,7 +56,7 @@ struct PortScannerApp {
 }
 ```
 
-Aquí:
+Desglose de los parámetros usados en el ```STRUCT```:
 
 - **`target`**: Dirección IP o dominio introducido por el usuario.
 - **`start_port`** y **`end_port`**: Rango de puertos introducido.
