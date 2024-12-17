@@ -2,7 +2,7 @@
 
 ## **Introducción**
 
-La idea con éste proyecto era vercómo poder usar de manera más real el uso de Rust, o sea, de que manera se pueden implementar / crear herramientas usando éste lenguaje de programación, más allá del típico ejercicio de ``suma me dos dígitos y que la funcion devuelva un entero```.
+La idea con éste proyecto era vercómo poder usar de manera más real el uso de Rust, o sea, de que manera se pueden implementar / crear herramientas usando éste lenguaje de programación, más allá del típico ejercicio de ```suma me dos dígitos y que la funcion devuelva un entero```.
 
 En éste ejemplo, he querido crear un escáner de puertos similar al ```nmap``` pero que también incluya un simple front-end.
 
