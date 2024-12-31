@@ -227,7 +227,7 @@ async fn is_port_open(address: &str) -> bool {
 
 ## **Ejecución del programa en Rust**
 
-1. En un terminal, ejecutar el siguiente comando:
+En un terminal, ejecuta el siguiente comando:
 ```bash
 cargo run
 ```
